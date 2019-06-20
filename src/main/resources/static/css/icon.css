@@ -1,0 +1,67 @@
+.icon-blank{
+	background:url('../images/icons/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('../images/icons/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('../images/icons/pencil.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('../images/icons/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('../images/icons/filesave.png') no-repeat center center;
+}
+.icon-star{
+	background:url('../images/icons/star.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('../images/icons/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('../images/icons/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('../images/icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('../images/icons/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('../images/icons/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('../images/icons/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('../images/icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('../images/icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('../images/icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('../images/icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('../images/icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('../images/icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('../images/icons/tip.png') no-repeat center center;
+}
+
+.icon-mini-add{
+	background:url('../images/icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('../images/icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('../images/icons/mini_refresh.png') no-repeat center center;
+}

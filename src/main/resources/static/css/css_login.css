@@ -1,0 +1,30 @@
+/*************基本样式**************/
+td,div{font-size: 12px;line-height:24px;color:#4e4e4e;}
+ul,li,dl,dd,img,*{ list-style:none; border:0px; padding:0px; margin:0px;}
+body {margin:0px;padding:0px; background:url(../images/24_12.jpg) 0 top repeat-x; background-color:#eff8fe;}
+
+/**************链接样式**************/
+button{color:#006699;font-size:12px;text-decoration:none;}
+button:hover{color:#F00;text-decoration: underline;}
+
+/**************布局样式**************/
+.top1{ background:url(../images/24_13.jpg) center top no-repeat; height:215px; width:auto;}
+.top2{ background:url(../images/24_14.jpg) center top no-repeat; height:330px; width:678px; margin:0 auto;}
+.logo{ float:left; margin:30px 0 0 35px; padding:25px 0 0 0;}
+.right{ float:right; margin:50px 20px 0 0px; padding:0; width:350px;}
+.top2 span.x input{ height:20px; width:200px; line-height:20px; font-size:12px; color:#acacac; padding:5px;}
+.top2 span{ display:block; padding:8px 0;}
+.top2 span button.dl{ display:inline-block; padding:0; height:36px; width:100px; text-align:center; line-height:36px; background:url(../images/24_15.jpg); color:#fff; font-size:14px;}
+.top2 span button.dl:hover{ text-decoration:none;background:url(../images/24_15.jpg) -100px 0;}
+.top3{ background:url(../images/24_13.jpg) center top no-repeat;width:auto; padding-top:145px;}
+.top3 div{ width:400px; margin:30px auto; text-align:left; font-size:14px;}
+.top3 h1{ text-align:center; font-family:"微软雅黑"; font-size:22px; color:#fff; background:url(../images/24_16.jpg) center bottom no-repeat; font-weight:normal; line-height:60px;}
+.top3 dt{ width:100px; float:left;padding:0; margin:0; height:50px;}
+.top3 dd{ width:300px; float:left;padding:0;margin:0; height:50px;}
+.top3 input{ height:20px; width:260px; line-height:20px; font-size:12px; color:#acacac; padding:5px;}
+.top3 button.dl{ display: inline-block;zoom:1; padding:0; height:36px; width:100px; text-align:center; line-height:36px; background:url(../images/24_15.jpg); color:#fff; font-size:14px;}
+.top3 button.dl:hover{ text-decoration:none;background:url(../images/24_15.jpg) -100px 0;}
+
+
+
+.end{ margin:0 auto; width:678px; color:#5d8eb4; text-align:center; padding:60px 10px 0 10px; clear:both;}
