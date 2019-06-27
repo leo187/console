@@ -7,4 +7,4 @@
 #说明：默认初始了两个用户 分别是leo\123456 、admin\123456
 
 
-![image]（https://github.com/leo187/console/blob/master/src/main/resources/static/images/24.png）
+![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/24.png)
