@@ -1,15 +1,16 @@
-# console
-## 1.用途 ：rbac的权限访问控制管理后台
-## 2.搭建方式 ： springBoot+Maven+jsp+mysql
-## 3.运行步骤 1.创建数据库 2.还原数据库（sql文件位于resource中） 3.启动应用 
-### 访问链接：localhost:8077/console/toLogin （用户信息：leo\123456 、admin\123456）
-**-----登录-----**
+# console rbac的权限访问控制管理后台
+                             **-----登录-----**
 ![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/readMe/readMe1.png)
-**-----用户管理-----**
+                             **-----用户管理-----**
 ![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/readMe/readMe2.png)
-**-----角色管理-----**
+                             **-----角色管理-----**
 ![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/readMe/readMe3.png)
-**-----授权-----**
+                             **-----授权-----**
 ![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/readMe/readMe4.png)
-**-----菜单管理-----**
+                             **-----菜单管理-----**
 ![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/readMe/readMe5.png)
+
+### 1.用途 ：rbac的权限访问控制管理后台
+### 2.搭建方式 ： springBoot+Maven+jsp+mysql
+### 3.运行步骤 1.创建数据库 2.还原数据库（sql文件位于resource中） 3.启动应用 
+### 访问链接：localhost:8077/console/toLogin （用户信息：leo\123456 、admin\123456）
