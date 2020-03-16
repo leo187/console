@@ -18,5 +18,5 @@
 ![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/readMe/readMe5.png)
 
 
-项目沟通QQ群
+**-----项目沟通QQ群-----**
 ![image](https://github.com/leo187/console/blob/master/src/main/resources/static/images/readMe/console.jpg)
