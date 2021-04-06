@@ -1,5 +1,6 @@
 package com.rbac.console.controller;
 
+import com.rbac.console.aspect.WebLog;
 import com.rbac.console.entity.ConsoleMenu;
 import com.rbac.console.entity.ConsoleUser;
 import com.rbac.console.entity.ConsoleUserExample;
@@ -24,6 +25,8 @@ public class VisitorController {
     private ConsoleUserService consoleUserService;
     @Autowired
     private ConsoleMenuService consoleMenuService;
+
+    @WebLog
     @RequestMapping("/toLogin")
     public String toLogin(){
         return "login";
